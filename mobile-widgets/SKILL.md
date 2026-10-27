@@ -1,6 +1,6 @@
 ---
 name: mobile-widgets
-description: "Use when adding a home-screen or Lock Screen widget, extending an app beyond its main UI, making a widget feel native, or debugging stale, resized, miscolored, misconfigured, or missing widget state."
+description: "Design, implement, and verify native iOS WidgetKit and Android App Widget experiences with responsive layouts, shared state, safe actions, timelines, previews, and real-device proof. Use when adding a home-screen or Lock Screen widget, extending an app beyond its main UI, making a widget feel native, or debugging stale, resized, miscolored, misconfigured, or missing widget state."
 license: MIT
 ---
 

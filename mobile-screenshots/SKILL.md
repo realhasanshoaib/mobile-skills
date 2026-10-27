@@ -1,6 +1,6 @@
 ---
 name: mobile-screenshots
-description: "Generate and upload App Store and Google Play listing media — screenshots, icons, feature graphics, previews — from simulators and emulators, no physical device needed. Use when creating or updating store screenshots, fixing wrong-size or rejected listing graphics, or when an uploaded icon or screenshot isn't showing."
+description: "Generate and upload App Store and Google Play listing media \u2014 screenshots, icons, feature graphics, previews \u2014 from simulators and emulators, no physical device needed. Use when creating or updating store screenshots, fixing wrong-size or rejected listing graphics, or when an uploaded icon or screenshot isn't showing."
 license: MIT
 ---
 
